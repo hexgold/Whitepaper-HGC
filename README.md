@@ -7,7 +7,7 @@ Telegram Channel: https://t.me/hexgoldclassic
 Telegram Chat: https://t.me/hexgoldchat 
 Twitter: https://twitter.com/hexgoldclassic 
  
-##SPECIFICATIONS  
+## SPECIFICATIONS  
 Name: HEX Gold Classic 
 Symbol: HGC 
 Total Supply: 88,000,000,000 HGC 
